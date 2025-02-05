@@ -26,21 +26,13 @@
 #### Extensions
 
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) - Hosts a local server in your workspace for you to preview your webpages on
-
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - Syntax highlighting in es6 multiline strings
-
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
-
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Pull Request and Issue Provider for GitHub
-
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Git within VS Code
-
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Lets you pull .gitignore templates from the <https://github.com/github/gitignore> repository
-
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
-
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
-
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) - Dead simple React snippets you will actually use
 
 <!-- ### Dev Tools (Browser)
