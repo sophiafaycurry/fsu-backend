@@ -6,8 +6,8 @@
 
 ### Class Schedule :calendar:
 
-- **Monday** &rarr; 7:00 PM ET - 10:00 PM ET </li>
-- **Wednesday** &rarr; 7:00 PM ET - 10:00 PM ET</li>
+- **Monday** &rarr; 7:00 PM ET - 10:00 PM ET
+- **Wednesday** &rarr; 7:00 PM ET - 10:00 PM ET
 
 ## Resources
 
