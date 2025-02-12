@@ -35,14 +35,15 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
 - [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) - Dead simple React snippets you will actually use
 
-<!-- ### Dev Tools (Browser)
+### Dev Tools (Browser)
 
 - **Documentation for Dev Tools**
   - [Google Chrome](https://developer.chrome.com/docs/devtools)
   - [Mozilla Firefox](https://firefox-source-docs.mozilla.org/devtools-user/)
   - [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/overview)
 - [The Beginner's Guide to Chrome Developer Tools](https://nira.com/chrome-developer-tools/): Excellent walkthrough of different tabs in Chrome's dev tools and what they are used for.
-- [Understanding Debugging in Javascript](https://webreference.com/javascript/basics/debugging/): Really great walkthrough of how to use the debugging tools in browsers
+<!-- - [Understanding Debugging in Javascript](https://webreference.com/javascript/basics/debugging/): Really great walkthrough of how to use the debugging tools in browsers
+
 
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): An essential tool for debugging React applications -->
 
@@ -50,6 +51,10 @@
 
 - [GitHub Docs-Getting Started With Your GitHub Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account): Feeling lost? GitHub has great documentation to get you started.
 - [Hello World Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world): Interactive tutorial on different GitHub tools.
+
+<!-- ### CLI
+
+- [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line): This article provides an introduction to the terminal, the essential commands you'll need to enter into it and how to chain commands together. -->
 
 <!-- ### Git
 
