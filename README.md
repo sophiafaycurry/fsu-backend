@@ -52,9 +52,9 @@
 - [GitHub Docs-Getting Started With Your GitHub Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account): Feeling lost? GitHub has great documentation to get you started.
 - [Hello World Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world): Interactive tutorial on different GitHub tools.
 
-<!-- ### CLI
+### CLI
 
-- [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line): This article provides an introduction to the terminal, the essential commands you'll need to enter into it and how to chain commands together. -->
+- [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line): This article provides an introduction to the terminal, the essential commands you'll need to enter into it and how to chain commands together.
 
 <!-- ### Git
 
