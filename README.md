@@ -56,7 +56,7 @@
 
 - [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Command_line): This article provides an introduction to the terminal, the essential commands you'll need to enter into it and how to chain commands together.
 
-<!-- ### Git
+### Git
 
 - [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git): Getting started guide
 - [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/): Visual representation of git concepts
@@ -65,7 +65,7 @@
 - [Git For Ages 4 and Up](https://www.youtube.com/watch?v=1ffBJ4sVUb4&t=125s): A long one, but a good one. Presentation on git fundamentals using children's toys.
 - [Git Workshop](https://github.com/kuahyeow/git-workshop): A beginner's interactive tutorial to Git and GitHub
 - [A layman’s introduction to Git](https://webtuu.com/blog/04/a-laymans-introduction-to-git): Blog introduction to Git concepts
-- [Git Basics - Branching, Merging and pushing code to GitHub](https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github): Next steps once you've set up a repository and have some commits. -->
+- [Git Basics - Branching, Merging and pushing code to GitHub](https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github): Next steps once you've set up a repository and have some commits.
 
 <!-- ### HTML
 
