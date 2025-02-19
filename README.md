@@ -49,6 +49,7 @@
 
 ### Github
 
+- [GitHub for Beginners](https://github.blog/developer-skills/github/top-12-git-commands-every-developer-must-know/): Top 12 Git commands every developer must know.
 - [GitHub Docs-Getting Started With Your GitHub Account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account): Feeling lost? GitHub has great documentation to get you started.
 - [Hello World Quickstart](https://docs.github.com/en/get-started/quickstart/hello-world): Interactive tutorial on different GitHub tools.
 
