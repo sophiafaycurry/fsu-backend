@@ -68,7 +68,7 @@
 - [A layman’s introduction to Git](https://webtuu.com/blog/04/a-laymans-introduction-to-git): Blog introduction to Git concepts
 - [Git Basics - Branching, Merging and pushing code to GitHub](https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github): Next steps once you've set up a repository and have some commits.
 
-<!-- ### HTML
+### HTML
 
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML): **GOAT** of web reference. You can use this for all things web: HTML, CSS, JavaScript.
   - [Beginner Tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#beginners_tutorials): They also have a lot of guides and tutorials if you prefer to learn by doing.
@@ -77,10 +77,10 @@
 - [A11y Style Guide](https://a11y-style-guide.com/style-guide/section-resources.html): A helpful reference on accessibility and accessible design.
 - [Learn HTML - Full Tutorial for Beginners](https://www.youtube.com/watch?v=kUMe1FH4CHE): This is a longer and more in-depth dive into HTML by freeCodeCamp.org. If you're looking to really dig into HTML, this could be a good place to start.
 - [HTML in 100 Seconds](https://www.youtube.com/watch?v=ok-plXXHlWw): If you don't have time for freeCodeCamp's deep dive, this is a pretty quick one!
-- [HTML Tables](https://www.codecademy.com/resources/docs/html/tables): Walkthrough of HTML tables -->
+- [HTML Tables](https://www.codecademy.com/resources/docs/html/tables): Walkthrough of HTML tables
 
 <!-- #### Forms
-
+- [Intro to HTML Forms](https://www.w3schools.com/html/html_forms.asp): An HTML form is used to collect user input
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms): Start here when dealing with forms. This includes tutorials, guides to form controls and advanced styling for forms specifically.
 - [Form Validation](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-validation): An in-depth walkthrough of native validation of HTML inputs with examples. -->
 
@@ -110,7 +110,6 @@
 #### Data Types, Variables, Operators
 
 - [JS Cheat Sheet](https://htmlcheatsheet.com/js/): Tips, tricks, tutorials…
-
 - [JavaScript Fundamentals - Data Types](https://javascript.info/types): Interactive guide to the data types in JavaScript. More information than you need right now, but could be helpful for later.
 - [Chapter 1 - Eloquent JavaScript](https://eloquentjavascript.net/01_values.html): A more in-depth and comprehensive breakdown/description of foundational concepts. Great resource overall.
 - [JavaScript Operators](https://www.freecodecamp.org/news/javascript-operators/): Interactive tutorial explaining and demonstrating JavaScript operators.
