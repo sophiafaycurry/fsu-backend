@@ -84,7 +84,7 @@
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms): Start here when dealing with forms. This includes tutorials, guides to form controls and advanced styling for forms specifically.
 - [Form Validation](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-validation): An in-depth walkthrough of native validation of HTML inputs with examples. -->
 
-<!-- ### CSS
+### CSS
 
 - [A Complete Beginner's Guide to CSS](https://welearncode.com/beginners-guide-css/): Good article that covers the basics of CSS with lots of helpful links.
 - [CSS Tricks](https://css-tricks.com/): Great all-around resource and reference for all things CSS.
@@ -93,7 +93,7 @@
 - [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#tips_for_handling_specificity_headaches): MDN reference for specificity and selectors.
 - [Have a good relationship with CSS](https://dev.to/sarah_chima/having-a-good-relationship-with-css-f1e): CSS can be frustrating - this a great article with tips about how to improve your skills.
 - [8 Games to Learn CSS the Fun Way](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f): List of different CSS games - most cover more advanced concepts, but a great resource nonetheless.
-- [CSS Selector Tester](https://www.w3schools.com/cssref/trysel.php): Interactively demonstrate different CSS selectors -->
+- [CSS Selector Tester](https://www.w3schools.com/cssref/trysel.php): Interactively demonstrate different CSS selectors
 
 <!-- #### Flexbox
 
