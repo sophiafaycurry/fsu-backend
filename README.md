@@ -111,7 +111,7 @@
 - [JavaScript Fundamentals - Data Types](https://javascript.info/types): Interactive guide to the data types in JavaScript. More information than you need right now, but could be helpful for later.
 - [Chapter 1 - Eloquent JavaScript](https://eloquentjavascript.net/01_values.html): A more in-depth and comprehensive breakdown/description of foundational concepts. Great resource overall.
 - [JavaScript Operators](https://www.freecodecamp.org/news/javascript-operators/): Interactive tutorial explaining and demonstrating JavaScript operators.
-- [Beginner's Guide to JavaScript Operators - Part One](https://dasha.ai/en-us/blog/beginners-guide-js-operators-part-1): Great walkthrough of JS operators (cheatsheet below).<br />
+- [Beginner's Guide to JavaScript Operators - Part One](https://dasha.ai/en-us/blog/beginners-guide-js-operators-part-1): Great walkthrough of JS operators (cheatsheet below).<br />  
   ![Operator Cheatsheet](/images/operator-cheatsheet.png)
 
 <!-- #### Conditionals
