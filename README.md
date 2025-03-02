@@ -42,10 +42,8 @@
   - [Mozilla Firefox](https://firefox-source-docs.mozilla.org/devtools-user/)
   - [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/overview)
 - [The Beginner's Guide to Chrome Developer Tools](https://nira.com/chrome-developer-tools/): Excellent walkthrough of different tabs in Chrome's dev tools and what they are used for.
-<!-- - [Understanding Debugging in Javascript](https://webreference.com/javascript/basics/debugging/): Really great walkthrough of how to use the debugging tools in browsers
-
-
-- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): An essential tool for debugging React applications -->
+- [Understanding Debugging in Javascript](https://webreference.com/javascript/basics/debugging/): Really great walkthrough of how to use the debugging tools in browsers
+<!-- - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): An essential tool for debugging React applications -->
 
 ### Github
 
@@ -105,7 +103,7 @@
 - [Grid Garden](https://cssgridgarden.com/): A game about CSS Grid!!
 - [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): BOOKMARK THIS. An excellent resource specifically for grid. -->
 
-<!-- ### JavaScript
+### JavaScript
 
 #### Data Types, Variables, Operators
 
@@ -114,7 +112,7 @@
 - [Chapter 1 - Eloquent JavaScript](https://eloquentjavascript.net/01_values.html): A more in-depth and comprehensive breakdown/description of foundational concepts. Great resource overall.
 - [JavaScript Operators](https://www.freecodecamp.org/news/javascript-operators/): Interactive tutorial explaining and demonstrating JavaScript operators.
 - [Beginner's Guide to JavaScript Operators - Part One](https://dasha.ai/en-us/blog/beginners-guide-js-operators-part-1): Great walkthrough of JS operators (cheatsheet below).<br />
-  ![Operator Cheatsheet](/images/operator-cheatsheet.png) -->
+  ![Operator Cheatsheet](/images/operator-cheatsheet.png)
 
 <!-- #### Conditionals
 
