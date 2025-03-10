@@ -77,10 +77,11 @@
 - [HTML in 100 Seconds](https://www.youtube.com/watch?v=ok-plXXHlWw): If you don't have time for freeCodeCamp's deep dive, this is a pretty quick one!
 - [HTML Tables](https://www.codecademy.com/resources/docs/html/tables): Walkthrough of HTML tables
 
-<!-- #### Forms
+#### Forms
+
 - [Intro to HTML Forms](https://www.w3schools.com/html/html_forms.asp): An HTML form is used to collect user input
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms): Start here when dealing with forms. This includes tutorials, guides to form controls and advanced styling for forms specifically.
-- [Form Validation](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-validation): An in-depth walkthrough of native validation of HTML inputs with examples. -->
+- [Form Validation](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-form-validation): An in-depth walkthrough of native validation of HTML inputs with examples.
 
 ### CSS
 
@@ -93,7 +94,7 @@
 - [8 Games to Learn CSS the Fun Way](https://dev.to/devmount/8-games-to-learn-css-the-fun-way-4e0f): List of different CSS games - most cover more advanced concepts, but a great resource nonetheless.
 - [CSS Selector Tester](https://www.w3schools.com/cssref/trysel.php): Interactively demonstrate different CSS selectors
 
-<!-- #### Flexbox
+#### Flexbox
 
 - [Flexbox Froggy](https://flexboxfroggy.com/): Flexbox CAN be fun!
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): BOOKMARK THIS. An excellent resource specifically for flexbox.
@@ -101,7 +102,7 @@
 #### Grid
 
 - [Grid Garden](https://cssgridgarden.com/): A game about CSS Grid!!
-- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): BOOKMARK THIS. An excellent resource specifically for grid. -->
+- [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): BOOKMARK THIS. An excellent resource specifically for grid.
 
 ### JavaScript
 
