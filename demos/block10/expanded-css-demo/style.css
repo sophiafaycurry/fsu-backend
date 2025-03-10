@@ -1,0 +1,34 @@
+/* nth-child to even */
+li:nth-child(even) {
+  border: 2px solid red;
+}
+
+/* change nth-child to select the 4th element */
+/* li:nth-child(4) {
+  border: 2px solid red;
+} */
+
+/* select the first 3 elements */
+/* li:nth-child(-n + 3) {
+  border: 2px solid red;
+} */
+/* show hover styling */
+p:hover {
+  background-color: yellow;
+}
+/* Show a shorthand */
+p {
+  border: 2px dashed black;
+}
+
+/* Calc styling - the div is 100% in width and we are making the main area 50px shorter of the overall width of div1 */
+
+.div1 {
+  width: 100%;
+  background-color: blue;
+}
+
+.main {
+  background-color: lightcoral;
+  width: calc(100% - 25px);
+}

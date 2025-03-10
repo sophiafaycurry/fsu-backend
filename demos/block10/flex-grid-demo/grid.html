@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grid</title>
+    <link rel="stylesheet" href="./style.css" />
+    <style>
+      .item1 {
+        grid-area: header;
+      }
+      .item2 {
+        grid-area: menu;
+      }
+      .item3 {
+        grid-area: main;
+      }
+      .item4 {
+        grid-area: right;
+      }
+      .item5 {
+        grid-area: footer;
+      }
+
+      .grid-container {
+        display: grid;
+        grid-template-areas:
+          "header header header header header header"
+          "menu main main main main main"
+          "menu footer footer footer right right";
+        gap: 10px;
+        background-color: #d4a373;
+        padding: 10px;
+      }
+
+      .grid-container > div {
+        background-color: #fefae0;
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+      }
+    </style>
+  </head>
+  <body class="holy-grail">
+    <header class="nav">
+      <h1>Lincoln Demo</h1>
+      <div class="links">
+        <a href="./index.html">Home</a>
+        <a href="./grid.html">Grid</a>
+      </div>
+    </header>
+
+    <p>This grid layout contains six columns and three rows:</p>
+
+    <div class="grid-container">
+      <div class="item1">Header</div>
+      <div class="item2">Menu</div>
+      <div class="item3">Main</div>
+      <div class="item4">Right</div>
+      <div class="item5">Footer</div>
+    </div>
+  </body>
+</html>
