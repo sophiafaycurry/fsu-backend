@@ -115,17 +115,17 @@
 - [Beginner's Guide to JavaScript Operators - Part One](https://dasha.ai/en-us/blog/beginners-guide-js-operators-part-1): Great walkthrough of JS operators (cheatsheet below).<br />  
   ![Operator Cheatsheet](/images/operator-cheatsheet.png)
 
-<!-- #### Conditionals
+#### Conditionals
 
 - [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) - Thorough resource on using conditionals in JS.
 - [Mastering Conditional Statements in JavaScript](https://medium.com/@rabailzaheer/mastering-conditional-statements-in-javascript-e01df15e09f) - Blog post with examples and additional resources.
-- [Learn JavaScript Conditionals](https://www.codecademy.com/learn/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-conditionals/cheatsheet): Concise cheatsheet -->
+- [Learn JavaScript Conditionals](https://www.codecademy.com/learn/game-dev-learn-javascript-basics/modules/game-dev-learn-javascript-conditionals/cheatsheet): Concise cheatsheet
 
-<!-- #### Functions
+#### Functions
 
 - [What are functions in Javascript? A Beginner's Guide](https://www.freecodecamp.org/news/what-are-functions-in-javascript-a-beginners-guide/): Article demonstrating function declaration syntax with examples.
 - [JavaScripts Functions: Explain Like I'm Five](https://dev.to/sumusiriwardana/javascript-functions-explain-like-i-m-five-5009): Blog post walking through functions, with GIFs!
-- [JavaScript Function - What's your Function?](https://www.youtube.com/watch?v=gigtS_5KOqo): Video walking through functions with examples, demos and clips of shows from the 90s. -->
+- [JavaScript Function - What's your Function?](https://www.youtube.com/watch?v=gigtS_5KOqo): Video walking through functions with examples, demos and clips of shows from the 90s.
 
 <!-- #### Arrays
 
