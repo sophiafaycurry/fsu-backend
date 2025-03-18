@@ -127,20 +127,20 @@
 - [JavaScripts Functions: Explain Like I'm Five](https://dev.to/sumusiriwardana/javascript-functions-explain-like-i-m-five-5009): Blog post walking through functions, with GIFs!
 - [JavaScript Function - What's your Function?](https://www.youtube.com/watch?v=gigtS_5KOqo): Video walking through functions with examples, demos and clips of shows from the 90s.
 
-<!-- #### Arrays
+#### Arrays
 
 - [The JavaScript Array Handbook – JS Array Methods Explained with Examples](https://www.freecodecamp.org/news/the-javascript-array-handbook/): Really great article walking through array properties, methods, etc. with examples and how-to guide.
 - [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c): Straight-forward video walkthrough demo-ing frequently used methods.
 - [Explain like I'm 5 - callback functions](https://www.reddit.com/r/learnjavascript/comments/o503on/explain_to_me_like_im_a_5_year_old_callback/): Reddit thread about callback functions
 
-##### Visual Representation of Array Methods
+<!-- ##### Visual Representation of Array Methods
 
 ![Array Methods, Visualized](https://scandiweb.com/blog/wp-content/uploads/2021/09/array-prototype-cheat-sheet-.jpeg) -->
 
-<!-- #### Loops
+#### Loops
 
 - [Loops: while and for](https://javascript.info/while-for): Additional practice and examples of different JS loops.
-- [Javascript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ): Quick video explainer on loops -->
+- [Javascript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ): Quick video explainer on loops
 
 <!-- #### Objects
 
