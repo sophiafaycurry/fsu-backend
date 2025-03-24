@@ -142,10 +142,10 @@
 - [Loops: while and for](https://javascript.info/while-for): Additional practice and examples of different JS loops.
 - [Javascript Loops](https://www.youtube.com/watch?v=s9wW2PpJsmQ): Quick video explainer on loops
 
-<!-- #### Objects
+#### Objects
 
 - [Object references and copying](https://javascript.info/object-copy): Explanation of objects and assign by reference.
-- [Javascript Objects, Explained](https://www.youtube.com/watch?v=rLPwCAqyCAE): Detailed video walking through objects, methods and properties. -->
+- [Javascript Objects, Explained](https://www.youtube.com/watch?v=rLPwCAqyCAE): Detailed video walking through objects, methods and properties.
 
 <!-- #### Classes
 
