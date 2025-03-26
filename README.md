@@ -133,9 +133,9 @@
 - [8 Must Know JavaScript Array Methods](https://www.youtube.com/watch?v=R8rmfD9Y5-c): Straight-forward video walkthrough demo-ing frequently used methods.
 - [Explain like I'm 5 - callback functions](https://www.reddit.com/r/learnjavascript/comments/o503on/explain_to_me_like_im_a_5_year_old_callback/): Reddit thread about callback functions
 
-<!-- ##### Visual Representation of Array Methods
+##### Visual Representation of Array Methods
 
-![Array Methods, Visualized](https://scandiweb.com/blog/wp-content/uploads/2021/09/array-prototype-cheat-sheet-.jpeg) -->
+![Array Methods, Visualized](https://scandiweb.com/blog/wp-content/uploads/2021/09/array-prototype-cheat-sheet-.jpeg)
 
 #### Loops
 
