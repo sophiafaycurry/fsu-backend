@@ -147,10 +147,10 @@
 - [Object references and copying](https://javascript.info/object-copy): Explanation of objects and assign by reference.
 - [Javascript Objects, Explained](https://www.youtube.com/watch?v=rLPwCAqyCAE): Detailed video walking through objects, methods and properties.
 
-<!-- #### Classes
+#### Classes
 
 - [Class basic syntax](https://javascript.info/class): Course chapter walking through class syntax.
-- [Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes): Practical guide as to when/why you would use classes. -->
+- [Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes): Practical guide as to when/why you would use classes.
 
 <!-- #### DOM (Document Object Model)
 
