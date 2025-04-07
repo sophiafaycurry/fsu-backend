@@ -152,10 +152,10 @@
 - [Class basic syntax](https://javascript.info/class): Course chapter walking through class syntax.
 - [Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes): Practical guide as to when/why you would use classes.
 
-<!-- #### DOM (Document Object Model)
+#### DOM (Document Object Model)
 
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction): MDN article that provides a great foundation for understanding the DOM.
-- [The DOM Explained for Beginners](https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/): Great walkthrough of DOM methods and what they do. -->
+- [The DOM Explained for Beginners](https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/): Great walkthrough of DOM methods and what they do.
 
 <!-- ##### Event Listeners
 
