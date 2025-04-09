@@ -157,9 +157,9 @@
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction): MDN article that provides a great foundation for understanding the DOM.
 - [The DOM Explained for Beginners](https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/): Great walkthrough of DOM methods and what they do.
 
-<!-- ##### Event Listeners
+##### Event Listeners
 
-- [Introduction to Events](https://javascript.info/events): Really great tutorial with diagrams and exercises for practice. -->
+- [Introduction to Events](https://javascript.info/events): Really great tutorial with diagrams and exercises for practice.
 
 <!-- #### Routing
 
