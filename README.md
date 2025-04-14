@@ -166,18 +166,18 @@
 - [Single Page Routing Using Hash or URL](https://thedevdrawer.medium.com/single-page-application-routing-using-hash-or-url-d6d1e2adcde): Article and video tutorial with detailed code explaining the differences.
 - [How to use window.hashchange event to implement routing in Vanilla Javascript](https://prahladyeri.github.io/blog/2020/08/how-to-use-windowhashchange-event-to-implement-routing-in-vanilla-javascript.html): Short and sweet article walking through usage of hash router. -->
 
-<!-- #### Async programming
+#### Async programming
 
 - [What the heck is the event loop?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D): Fantastic video that walks through the JS event loop without jargon and provides a nice visualization tool to better understand asynchronous code. Great introduction.
 - [The Async/Await Episode](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s): Fireship walkthrough of async programming. More granular and technical than the above video, but a great resource once you have some experience under your belt.
-- [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises): Really comprehensive series all about JS promises, understanding them and using them. -->
+- [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises): Really comprehensive series all about JS promises, understanding them and using them.
 
-<!-- #### APIs
+#### APIs
 
 - [What is REST?](https://www.codecademy.com/article/what-is-rest): Really clear walkthrough of what REST principles are and why they matter.
 - [What is an API?](https://www.postman.com/what-is-an-api/): Great high-level walkthrough of different kinds of APIs, what they are used for, and real-world examples.
 - [HTTP Cats](https://http.cat/): If you are a visual learner who learns best through cat photos, then this is the resource for you.
-- [RESTful API Design: nouns are good, verbs are bad](https://cloud.google.com/blog/products/api-management/restful-api-design-nouns-are-good-verbs-are-bad): Oldie but a goodie explaining naming practices for RESTful design. -->
+- [RESTful API Design: nouns are good, verbs are bad](https://cloud.google.com/blog/products/api-management/restful-api-design-nouns-are-good-verbs-are-bad): Oldie but a goodie explaining naming practices for RESTful design.
 
 <!-- #### React
 
