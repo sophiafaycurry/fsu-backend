@@ -161,10 +161,10 @@
 
 - [Introduction to Events](https://javascript.info/events): Really great tutorial with diagrams and exercises for practice.
 
-<!-- #### Routing
+#### Routing
 
 - [Single Page Routing Using Hash or URL](https://thedevdrawer.medium.com/single-page-application-routing-using-hash-or-url-d6d1e2adcde): Article and video tutorial with detailed code explaining the differences.
-- [How to use window.hashchange event to implement routing in Vanilla Javascript](https://prahladyeri.github.io/blog/2020/08/how-to-use-windowhashchange-event-to-implement-routing-in-vanilla-javascript.html): Short and sweet article walking through usage of hash router. -->
+- [How to use window.hashchange event to implement routing in Vanilla Javascript](https://prahladyeri.github.io/blog/2020/08/how-to-use-windowhashchange-event-to-implement-routing-in-vanilla-javascript.html): Short and sweet article walking through usage of hash router.
 
 #### Async programming
 
