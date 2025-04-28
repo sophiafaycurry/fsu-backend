@@ -43,7 +43,7 @@
   - [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/overview)
 - [The Beginner's Guide to Chrome Developer Tools](https://nira.com/chrome-developer-tools/): Excellent walkthrough of different tabs in Chrome's dev tools and what they are used for.
 - [Understanding Debugging in Javascript](https://webreference.com/javascript/basics/debugging/): Really great walkthrough of how to use the debugging tools in browsers
-<!-- - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): An essential tool for debugging React applications -->
+- [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en): An essential tool for debugging React applications
 
 ### Github
 
@@ -179,11 +179,11 @@
 - [HTTP Cats](https://http.cat/): If you are a visual learner who learns best through cat photos, then this is the resource for you.
 - [RESTful API Design: nouns are good, verbs are bad](https://cloud.google.com/blog/products/api-management/restful-api-design-nouns-are-good-verbs-are-bad): Oldie but a goodie explaining naming practices for RESTful design.
 
-<!-- #### React
+#### React
 
 - [React Documentation](https://react.dev/): The source for all things React. There's tutorials, examples, blogs. If you are stuck, this is the place to start.
 - [Vite Documentation](https://vitejs.dev/): We are using the Vite package to quickly set up our React dev environment. These will help troubleshoot issues specific to running and building the app.
-- [React Tutorial](https://react-tutorial.app/): Cool app that allows you to practice JS and React concepts in the browser. -->
+- [React Tutorial](https://react-tutorial.app/): Cool app that allows you to practice JS and React concepts in the browser.
 
 <!-- ##### React-Redux, Redux Toolkit, RTKQuery
 
