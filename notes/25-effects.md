@@ -7,6 +7,7 @@
 
 ## Action Items
 
+- [ ] Download [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) VS Code Extension.
 - [ ] Complete and submit Block 25: Competency Check.
 - [ ] Complete and submit Workshop: Guest List.
   - **Note**: this does not need context! Context will return in the next block.
