@@ -4,7 +4,7 @@ import useMutation from "./api/useMutation";
 
 function App() {
   // Fetch puppies from the API and provide the "puppies" tag
-  const { data: puppies, loading, error } = useQuery("/players/", "puppies");
+  const { data: puppies, loading, error } = useQuery("/players", "puppies");
 
   // Mutation that will POST /players and invalidate the "puppies" tag
   // I am renaming the data, loading, and error variables here because
