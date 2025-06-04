@@ -185,12 +185,6 @@
 - [Vite Documentation](https://vitejs.dev/): We are using the Vite package to quickly set up our React dev environment. These will help troubleshoot issues specific to running and building the app.
 - [React Tutorial](https://react-tutorial.app/): Cool app that allows you to practice JS and React concepts in the browser.
 
-<!-- ##### React-Redux, Redux Toolkit, RTKQuery
-
-- [React-Redux Toolkit Tutorials](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo): A whole PLAYLIST of React-Redux tutorials, including RTK Query.
-- [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4): Short explainer video for Redux. If you aren't a fan of Redux, the comments here are great.
-- [RTK Query Overview](https://redux-toolkit.js.org/rtk-query/overview): Official docs for RTK Query with tutorial and other fun stuff. -->
-
 <!-- ##### Styling and Component Libraries
 
 - [Material UI](https://mui.com/material-ui/): Easy-to-use, popular library of React Components
@@ -225,14 +219,3 @@ Some general resources for RESTful API design and development.
 
 - [PostgreSQL in 100 seconds](https://www.youtube.com/watch?v=n2Fluyr3lbc): Quick video about postgres!
 - [Postgres - Tutorials and Other Resources](https://www.postgresql.org/docs/online-resources/): postgres-approved resources to master pg! -->
-
-<!-- ##### Prisma
-
-- [Prisma in 100 seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg): Quick lil video about Prisma
-- [What is an ORM?](https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/): A general explainer of what an ORM is and how it works -->
-
-<!-- ##### OAuth
-
-- [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/): blog post breaking down the OAuth documentation.
-- [What is OAuth? A breakdown for beginners](https://nordicapis.com/oauth-a-breakdown-for-beginners/): Nordic API breakdown with diagrams. Great resource for API development.
-- [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc): Cartoons! About auth! -->
