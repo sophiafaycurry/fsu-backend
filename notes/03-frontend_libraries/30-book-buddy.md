@@ -6,13 +6,13 @@ You will be submitting the link to your pull request.
 
 ## Preparing for Unit 4
 
-Unit 4 introduces backend development, which requires some additional machine setup that we will do next class.
+Unit 4 introduces backend development, which requires some additional machine setup.
 
-<!-- - [ ] Follow [these instructions to install PostgreSQL on your
+- [ ] Follow [these instructions to install PostgreSQL on your
       computer.](/notes/04-backend_development/postgresql_installation.md)
 
 Backend is a _completely separate_ topic from what we've covered in Unit 3.
-Review your notes from Unit **2**, since we'll be writing plain JavaScript again.
+Review Unit **2**, since we'll be writing plain JavaScript again.
 
 If you want a preview of what we will be covering, read the following:
 
@@ -20,4 +20,4 @@ If you want a preview of what we will be covering, read the following:
 - these articles under [Express Getting Started docs](https://expressjs.com/en/starter/installing.html):
   - Installing
   - Hello world
-  - Basic routing -->
+  - Basic routing
