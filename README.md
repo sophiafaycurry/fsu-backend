@@ -198,16 +198,16 @@
 
 - [Vitest Tutorial](https://www.robinwieruch.de/vitest-react-testing-library/): Instructions for installing the Vitest library for testing. -->
 
-<!-- #### Backend
+#### Backend
 
 Some general resources for RESTful API design and development.
 
 - [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/): Opinionated and thorough blog post about writing APIs
-- [How to Use REST APIs](https://www.freecodecamp.org/news/how-to-use-rest-api/): freeCodeCamp resource for beginners -->
+- [How to Use REST APIs](https://www.freecodecamp.org/news/how-to-use-rest-api/): freeCodeCamp resource for beginners
 
-<!-- ##### Express
+##### Express
 
-- [The Express + Node.js Handbook](https://www.freecodecamp.org/news/the-express-handbook/): VERY thorough handbook going through anything you'd want to do in Express. -->
+- [The Express + Node.js Handbook](https://www.freecodecamp.org/news/the-express-handbook/): VERY thorough handbook going through anything you'd want to do in Express.
 
 <!-- ##### SQL
 
