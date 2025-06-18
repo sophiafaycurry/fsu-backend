@@ -17,6 +17,31 @@
 - Query a database with JavaScript
 - Seed a database with initial data
 
+## Example: Inserting Records
+
+```javascript
+/** @returns the record created according to the provided details */
+export async function createRecord({ field1, field2, field3 }) {
+  const sql = `
+    INSERT INTO table_name (column1, column2, column3)
+    VALUES ($1, $2, $3)
+    RETURNING *
+  `;
+
+  const {
+    rows: [newRecord],
+  } = await db.query(sql, [field1, field2, field3]);
+  return newRecord;
+}
+```
+
+### Key concepts:
+
+- `await` pauses until the database responds
+- Parameterized queries with `$1, $2, $3` and parameter arrays prevent SQL injection
+- `RETURNING *` gets back the inserted record
+- Destructuring `{ rows: [newRecord] }` extracts the rows array from the result and immediately grabs the first item as `newRecord`
+
 ## Vocabulary
 
 - schema, type, constraint, primary key
