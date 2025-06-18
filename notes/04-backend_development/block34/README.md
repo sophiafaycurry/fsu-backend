@@ -42,6 +42,24 @@ export async function createRecord({ field1, field2, field3 }) {
 - `RETURNING *` gets back the inserted record
 - Destructuring `{ rows: [newRecord] }` extracts the rows array from the result and immediately grabs the first item as `newRecord`
 
+## Example: Seeding the Database
+
+```javascript
+// Seeds the database with initial records
+async function seedDatabase() {
+  const records = [
+    { field1: "Lincoln", field2: "Mixed Rescue", field3: 6 },
+    { field1: "Chase", field2: "Iggy", field3: 11 },
+  ];
+
+  for (const record of records) {
+    await createRecord(record);
+  }
+
+  console.log("Database seeded successfully");
+}
+```
+
 ## Vocabulary
 
 - schema, type, constraint, primary key
