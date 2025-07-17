@@ -4,7 +4,7 @@ Welcome to Fullstack University! Your team has been hired to build a web platfor
 
 ## Overview
 
-You'll have a week to build this project from the ground up with your team. You should have two separate repositories: one for your frontend, and another for your backend. Your goal is to meet the requirements specified below.
+You'll have a week to build this project with your team. You should have two separate repositories: one for your [frontend](https://github.com/charmcity-code/fsu-frontend), and another for your [backend](https://github.com/charmcity-code/fsu-backend). Your goal is to meet the requirements specified below.
 
 There is nothing to submit in Canvas, but your team will be doing a brief 2 minute presentation to showcase your app on **Wednesday, July 23** at the beginning of class.
 
